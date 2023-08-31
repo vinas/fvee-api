@@ -1,0 +1,12 @@
+{
+  "name": "fvee-api",
+  "version": "1.0.0",
+  "description": "Formula Vee Brazil's APIs",
+  "main": "index.js",
+  "repository": "https://github.com/vinas/fvee-api.git",
+  "author": "Vinas (vinas.andrade@gmail.com)",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
